@@ -1,5 +1,5 @@
 use crossterm::{
-    style::{Color, Print, ResetColor, SetForegroundColor},
+    style::{Color, ResetColor, SetForegroundColor},
     ExecutableCommand,
 };
 use std::io::{stdin, stdout};
